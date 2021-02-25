@@ -12,5 +12,9 @@ public class Street {
 		time = t;
 		q = new LinkedList<Car>();
 	}
+	
+	public String getName() {
+		return name;
+	}
 
 }

@@ -9,5 +9,9 @@ public class Car {
 		id = i;
 		path = p;
 	}
+	
+	public ArrayList<String> getPath() {
+		return path;
+	}
 
 }
