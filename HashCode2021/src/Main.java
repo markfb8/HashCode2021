@@ -34,6 +34,6 @@ public class Main {
 			for(int j = 1; j <= st; ++j) {
 				path.add(s[j]);
 			}
-		}
+		} 
 	}
 }
